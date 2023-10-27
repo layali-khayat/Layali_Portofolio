@@ -1,0 +1,22 @@
+.sec{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 50px;
+  }
+  .section-container {
+    padding: 20px;
+    border-radius:25px;
+    box-shadow: 0 0 20px rgba(230, 223, 228, 0.2); 
+    margin-bottom: 20px;
+    background: linear-gradient(135deg, #E68FC4, #6e0646); 
+    
+
+
+}
+
+.section-container h3{
+    text-align: center;
+    padding: 20px;
+}
+
+ 
